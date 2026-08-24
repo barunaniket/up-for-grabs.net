@@ -1,0 +1,19 @@
+name: CodeChef PESUECC Chapter
+desc: >-
+  The official web platform and daily competitive-programming arena for the
+  CodeChef PESUECC Chapter. A student-run, in-production app built with Next.js
+  on Cloudflare Workers and D1, a GitOps problem pipeline, and a self-hosted
+  sandboxed code judge. Beginner-friendly, with a curated set of good first
+  issues and a pinned onboarding guide.
+site: https://github.com/codechefPesuecc/CodeChef-PESUECC-Chapter
+tags:
+  - typescript
+  - nextjs
+  - react
+  - cloudflare
+  - competitive-programming
+  - tailwindcss
+  - education
+upforgrabs:
+  name: good first issue
+  link: https://github.com/codechefPesuecc/CodeChef-PESUECC-Chapter/labels/good%20first%20issue
